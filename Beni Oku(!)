@@ -1,3 +1,5 @@
 Hocam projemizde veritabanı olarak Google Firebase kullandık fakat 2 gün sonra veritabanı kendisini imha edecek, içindeki veriler silinecek. 
 Sebebi ise Firebase ücretli hale geçti bildiğiniz gibi, trial sürüm olarak belirli bir gün veriyor. Projede herhangi bir sıkıntı yok. Sadece kontrol edecekseniz
 2 gün içerisinde bakabilirseniz iyi olur. Yine de program görüntülerini detaylıca dosyamıza ekliyoruz. İnceleyebilirsiniz. Teşekkür ederiz.
+Hocam bir de Activity.dart dosyasında 298. satırda databaseSave() fonk. kapatmıştık. Test ederken birçok veri kaydetmesin diye. Eğer projeyi çalıştırıp aktivite yapacaksanız
+bu satırdaki kodun yorumunu kaldırın. 
