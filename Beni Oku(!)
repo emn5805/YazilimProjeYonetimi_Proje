@@ -1,0 +1,3 @@
+Hocam projemizde veritabanı olarak Google Firebase kullandık fakat 2 gün sonra veritabanı kendisini imha edecek, içindeki veriler silinecek. 
+Sebebi ise Firebase ücretli hale geçti bildiğiniz gibi, trial sürüm olarak belirli bir gün veriyor. Projede herhangi bir sıkıntı yok. Sadece kontrol edecekseniz
+2 gün içerisinde bakabilirseniz iyi olur. Yine de program görüntülerini detaylıca dosyamıza ekliyoruz. İnceleyebilirsiniz. Teşekkür ederiz.
